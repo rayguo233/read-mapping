@@ -25,3 +25,19 @@ WHICH_ALGORITHM - which algorithm to perform:
 	'2' for checking if the two algorithms's results agree
 ```
 For example, `./pj4.py 100000 100 500000 0` means apply PatternMatchingWithSuffixArray to a genome of length 500,000 with 100,000 reads all of which are of length 100.
+
+Some expected output:  
+```
+$ ./pj4.py 100 10 100 0
+PatternMatchingWithSuffixArray:
+- runtime: 0.001786947250366211 seconds
+- results: 100 matches found
+- current memory usage: 0.010112MB; peak: 0.030255MB
+$ ./pj4.py 100 10 100 1
+BetterBWMatching:
+- runtime: 0.0014259815216064453 seconds
+- results: 100 matches found
+- current memory usage: 0.0142MB; peak: 0.035407MB
+$ ./pj4.py 100 10 100 2
+Success. Results from the two alforithms matchs
+```
