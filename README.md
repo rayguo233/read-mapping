@@ -12,7 +12,7 @@ First edit the first line of this script (`#!/usr/local/cs/bin/python3`) to make
 Then give execution permission using commands like:  
 `chmod 744 ./pj4.py`
 
-Then the script can be run with the following syntax.
+Then the script can be run with the following syntax.  
 `./pj4.py [NUM_READS] [LEN_READ] [LEN_GENOME] [WHICH_ALGORITHM]`
 where:
 ```
