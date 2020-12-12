@@ -39,5 +39,5 @@ BetterBWMatching:
 - results: 100 matches found
 - current memory usage: 0.0142MB; peak: 0.035407MB
 $ ./pj4.py 100 10 100 2
-Success. Results from the two alforithms matches
+Success. Results from the two algorithms matches
 ```
