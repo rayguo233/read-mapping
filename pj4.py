@@ -297,7 +297,7 @@ def main():
             maxi = max(maxi, res)
             num_match_bwm += res
         if num_match_bwm == num_match_array:
-            print("Success. Results from the two alforithms matchs")
+            print("Success. Results from the two algorithms matches")
 
     # error handling
     else:
