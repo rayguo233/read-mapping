@@ -1,7 +1,5 @@
 # Description of files
-- **report.pdf** - the report of this project
 - **pj4.py** - the implementation of PatternMatchingWithSuffixArray and BetterBWMatching; instruction to run can be found bellow
-- **plot code.pdf** - the code used to plot figures used in the report (the code is written in Jupyter Notebook environment)
 
 # Instruction to Run pj4.py
 
