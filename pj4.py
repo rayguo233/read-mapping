@@ -1,4 +1,4 @@
-#!/usr/local/cs/bin/python3
+#!/Users/rayguo/.pyenv/versions/3.8.6/bin/python3
 import random as rand
 import sys
 import bisect
